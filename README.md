@@ -1,3 +1,5 @@
+# Ceremonies
+
 ## Retrospective
 
 The prime directive: 
@@ -6,3 +8,7 @@ The prime directive:
 Methodology:
 - Small starfish
 - Starfish
+
+## Futurespective
+
+> //TODO
