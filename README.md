@@ -8,7 +8,14 @@ The prime directive:
 Methodology:
 - Small starfish
 - Starfish
+- Timeline
+- Feelings and paths
 
 ## Futurespective
 
-> //TODO
+Methodology:
+- Path to Nirvana
+- Hero's Journey
+- Plan of Action
+- Telos thinking
+
