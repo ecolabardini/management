@@ -19,3 +19,9 @@ Methodology:
 - Plan of Action
 - Telos thinking
 
+# Customer
+
+## Satisfaction
+
+- Prioritizing Customer Satisfaction and Delight: Kano Model
+
