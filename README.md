@@ -1,3 +1,7 @@
+# Fake Agile
+
+[Understanding Fake Agil - https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/)
+
 # Ceremonies
 
 ## Retrospective
@@ -24,4 +28,3 @@ Methodology:
 ## Satisfaction
 
 - Prioritizing Customer Satisfaction and Delight: Kano Model
-
