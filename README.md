@@ -1,6 +1,10 @@
 # Fake Agile
 
-[Understanding Fake Agil - https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/](https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/)
+Understanding Fake Agil - https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/
+
+# Hiring
+
+Creditas - https://www.lovemondays.com.br/blog-canal-do-rh/creditas-processo-seletivo-sem-vies/
 
 # Ceremonies
 
