@@ -1,3 +1,10 @@
+# Engineering Roles / Competency Matrix / Ladders / Career paths
+
+Team Competency Matrix - https://management30.com/practice/competency-matrix/
+CircleCI Engineering Competence Matrix - https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0
+Engineering Roles - https://github.com/meetup/engineering-roles
+Engineering Ladders - https://github.com/bmoeskau/engineering-ladders
+
 # Fake Agile
 
 Understanding Fake Agil - https://www.forbes.com/sites/stevedenning/2019/05/23/understanding-fake-agile/amp/
