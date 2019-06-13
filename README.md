@@ -44,3 +44,11 @@ Methodology:
 ## Satisfaction
 
 - Prioritizing Customer Satisfaction and Delight: Kano Model
+
+# Metrics
+
+- Lead Time
+- Cycle Time
+- Throughput
+- Cumulative Flow Diagram
+- Flow Efficiency
