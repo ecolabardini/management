@@ -1,4 +1,4 @@
-# Engineering Roles / Competency Matrix / Ladders / Career paths
+# Roles / Competency Matrix / Ladders
 
 [Team Competency Matrix](https://management30.com/practice/competency-matrix/)
 
@@ -19,6 +19,11 @@
 [Creditas](https://www.lovemondays.com.br/blog-canal-do-rh/creditas-processo-seletivo-sem-vies/)
 
 # Ceremonies
+
+# Company
+
+- All Hands
+- Town Hall
 
 ## Retrospective
 
