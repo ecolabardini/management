@@ -20,10 +20,18 @@
 
 # Ceremonies
 
-# Company
+## Company
 
 - All Hands
 - Town Hall
+- Staff meeting
+- Mission Oriented
+- Ask me anything
+
+## Invidual
+
+- One on One
+- Performance Review
 
 ## Retrospective
 
