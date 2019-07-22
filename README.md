@@ -4,9 +4,15 @@
 
 # Kaizen, Kaikaku and Kakushin
 
-<img src="https://www.benchmarksixsigma.com/forum/uploads/monthly_2017_09/image.png.ce2645f8152fc18e8535fe3ba8e77dba.png">
+<img src="https://www.benchmarksixsigma.com/forum/uploads/monthly_2017_09/image.png.ce2645f8152fc18e8535fe3ba8e77dba.png" width="400">
 
 Source: https://www.benchmarksixsigma.com/forum/topic/34872-kaizen-kaikaku-kakushin/
+
+## Kaizen
+
+<img src="http://leanmagazine.net/wordpress/wp-content/uploads/2017-11-30_15-23-14.png" width="400">
+
+Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change/
 
 # Roles / Competency Matrix / Ladders
 
