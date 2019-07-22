@@ -1,3 +1,7 @@
+# Ikigai
+
+<img src="https://miro.medium.com/max/1838/1*cJk9deGJ2aizplaTslEXLA.jpeg" width="400">
+
 # Roles / Competency Matrix / Ladders
 
 [Team Competency Matrix](https://management30.com/practice/competency-matrix/)
