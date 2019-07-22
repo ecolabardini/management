@@ -2,6 +2,12 @@
 
 <img src="https://miro.medium.com/max/1838/1*cJk9deGJ2aizplaTslEXLA.jpeg" width="400">
 
+# Kaizen, Kaikaku and Kakushin
+
+<img src="https://www.benchmarksixsigma.com/forum/uploads/monthly_2017_09/image.png.ce2645f8152fc18e8535fe3ba8e77dba.png">
+
+Source: https://www.benchmarksixsigma.com/forum/topic/34872-kaizen-kaikaku-kakushin/
+
 # Roles / Competency Matrix / Ladders
 
 [Team Competency Matrix](https://management30.com/practice/competency-matrix/)
