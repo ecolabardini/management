@@ -1,3 +1,8 @@
+# Architecture
+
+- http://principlesofchaos.org/
+- https://www.reactivemanifesto.org/
+
 # Competence, Ignorance and Risk Management
 
 - Known knowns, known unknowns, unknown unknowns, unknown knowns
