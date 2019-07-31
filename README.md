@@ -1,3 +1,9 @@
+# Competence, Ignorance and Risk Management
+
+Known knowns, known unknowns, unknown unknowns, unknown knowns
+The Five Orders of Ignorance
+Four Stages of Competence
+
 # Ikigai
 
 <img src="https://miro.medium.com/max/1838/1*cJk9deGJ2aizplaTslEXLA.jpeg" width="400">
