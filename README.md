@@ -1,3 +1,15 @@
+# Kanban
+
+|Input (future) | Work in Progress (present) | Output (past) |
+| :---         |     :---:      |          ---: |
+| Do only the right thing | Start here | Make the results tangible |
+| Priorization | Visual feedback       | Metrics |
+| Expectation alignment | Capacity planning     | Celebration |
+| Business value discovery | Tactical coordination | Dissemination |
+| Upstream | Small delirables | |
+| Collaborate and conquer | Collaborate and conquer | Collaborate and conquer |
+
+
 # Architecture
 
 - http://principlesofchaos.org/
