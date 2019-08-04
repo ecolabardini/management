@@ -9,6 +9,7 @@
 | Upstream | Small delirables | |
 | Collaborate and conquer | Collaborate and conquer | Collaborate and conquer |
 
+- WIP Limit and Little's Laws: quality improvement, better delivery rate (Lead Time)
 
 # Architecture
 
