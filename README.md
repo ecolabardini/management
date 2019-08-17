@@ -1,3 +1,7 @@
+# The Comfort Zone
+
+<img src="https://miro.medium.com/max/1400/1*ZkokDpV1svbBIHOmTPDFoA.jpeg" width="400">
+
 # Kanban
 
 |Input (future) | Work in Progress (present) | Output (past) |
