@@ -1,6 +1,6 @@
 # Cynefin
 
-Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories. https://en.wikipedia.org/wiki/Cynefin_framework
+Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories. (Reference: https://en.wikipedia.org/wiki/Cynefin_framework)
 
 <a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="512" alt="Cynefin framework by Edwin Stoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/512px-Cynefin_framework_by_Edwin_Stoop.jpg"></a>
 
@@ -45,6 +45,8 @@ Source: https://en.wikipedia.org/wiki/Four_stages_of_competence
 - The Five Orders of Ignorance
 
 # Ikigai
+
+Ikigai is a Japanese concept that means "a reason for being." The word "ikigai" is usually used to indicate the source of value in one's life or the things that make one's life worthwhile. The word translated to English roughly means "thing that you live for" or "the reason for which you wake up in the morning." Each individual's ikigai is personal to them and specific to their lives, values and beliefs. It reflects the inner self of an individual and expresses that faithfully, while simultaneously creating a mental state in which the individual feels at ease. Activities that allow one to feel ikigai are never forced on an individual; they are often spontaneous, and always undertaken willingly, giving the individual satisfaction and a sense of meaning to life. (Reference: https://en.wikipedia.org/wiki/Ikigai)
 
 <img src="https://miro.medium.com/max/1838/1*cJk9deGJ2aizplaTslEXLA.jpeg" width="400">
 
