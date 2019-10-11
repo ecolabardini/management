@@ -16,7 +16,7 @@ Cynefin offers five decision-making contexts or "domains"—obvious (known until
 | Priorization | Visual feedback       | Metrics |
 | Expectation alignment | Capacity planning     | Celebration |
 | Business value discovery | Tactical coordination | Dissemination |
-| Upstream | Small delirables | |
+| Upstream | Small deliverables | |
 | Collaborate and conquer | Collaborate and conquer | Collaborate and conquer |
 
 - WIP Limit and Little's Laws: quality improvement, better delivery rate (Lead Time)
