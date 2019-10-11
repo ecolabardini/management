@@ -1,3 +1,17 @@
+# Douglas McGregor on Theory X and Theory Y
+
+<a title="User:ZellmerLP SVG [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:McgregorXY-languages_(cropped).svg"><img width="256" alt="McgregorXY-languages (cropped)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/McgregorXY-languages_%28cropped%29.svg/256px-McgregorXY-languages_%28cropped%29.svg.png"></a>
+
+| Theory X | sphere | Theory Y |
+| :- | :-: |  :- |
+| Dislike work, find it boring, will avoid if we can | ATTITUDE | Need to work, want to take an interest, we can enjoy it|
+| Must be forced or coerced into compliance | DIRECTION | Direct ourselves towards an accepted target | 
+| Need to be directed, avoid responsability | RESPONSABILITY | Thrive on responsability |
+| Motivated by fear, lack of money, lack of job security | MOTIVATION | Motivated by the desire of self-development and to contribute to the world |
+| Little creativity, except when getting around rules | CREATIVITY | Highly creative when given recognition and opportunity|
+
+Reference: https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y
+
 # Cynefin
 
 Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories. (Reference: https://en.wikipedia.org/wiki/Cynefin_framework)
