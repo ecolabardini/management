@@ -41,6 +41,14 @@ Cynefin offers five decision-making contexts or "domains"—obvious (known until
 
 - WIP Limit and Little's Laws: quality improvement, better delivery rate (Lead Time)
 
+#### Metrics
+
+- Lead Time
+- Cycle Time
+- Throughput
+- Cumulative Flow Diagram
+- Flow Efficiency
+
 # Four Stages of Competence
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg/2560px-Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg.png" width="400">
@@ -147,11 +155,3 @@ Methodology:
 ## Satisfaction
 
 - Prioritizing Customer Satisfaction and Delight: Kano Model
-
-# Metrics
-
-- Lead Time
-- Cycle Time
-- Throughput
-- Cumulative Flow Diagram
-- Flow Efficiency
