@@ -54,10 +54,13 @@ Cynefin offers five decision-making contexts or "domains"—obvious (known until
 
 Source: https://en.wikipedia.org/wiki/Four_stages_of_competence
 
-# Architecture
+# Principles of Software and Quality Architecture
 
-- http://principlesofchaos.org/
-- https://www.reactivemanifesto.org/
+- [Principles of Chaos Engineering](http://principlesofchaos.org/)
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [Modern Testing Principles](https://moderntesting.org/)
+- [Shift Left Testing](https://dzone.com/articles/what-is-shift-left-testing)
+- [Agile Testing](https://en.wikipedia.org/wiki/Agile_testing)
 
 # Competence, Ignorance and Risk Management
 
