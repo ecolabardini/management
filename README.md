@@ -150,8 +150,18 @@ Methodology:
 - Plan of Action
 - Telos thinking
 
-# Customer
+# MVP, MMP
 
-## Satisfaction
+#### The Minimum Viable Product
 
-- Prioritizing Customer Satisfaction and Delight: Kano Model
+>The minimum viable product (MVP), as defined by Eric Ries, is a learning vehicle. It allows you to test an idea by exposing an early version of your product to the target users and customers, to collect the relevant data, and to learn form it. For instance, to test the viability of using ads as the major revenue source, you could release an early product increment with fake ads, and measure if and how often people click on the them.
+
+#### The Minimal Marketable Product
+
+> The minimal marketable product (MMP) is a different type of product. It is based on the idea that less is more. The MMP describes the product withthe smallest possible feature setthat addresses the user needs, creates the desired user experience, and can hence be marketed and sold successfully. The MMP is a tool to reduce time-to-market: It can be launched more quickly than a fat, feature-rich one.
+
+Source: https://dzone.com/articles/minimum-viable-product-and
+
+#### Prioritizing Customer Satisfaction and Delight: Kano Model
+
+<img src="http://worksmartertogether.ucd.ie/wp-content/uploads/2017/11/kano2-1.png" width="600">
