@@ -69,6 +69,7 @@ Source: https://en.wikipedia.org/wiki/Four_stages_of_competence
 - [Modern Testing Principles](https://moderntesting.org/)
 - [Shift Left Testing](https://dzone.com/articles/what-is-shift-left-testing)
 - [Agile Testing](https://en.wikipedia.org/wiki/Agile_testing)
+- [The Twelve Factor App](https://12factor.net/)
 
 # Competence, Ignorance and Risk Management
 
