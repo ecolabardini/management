@@ -28,7 +28,7 @@ Reference: https://en.wikipedia.org/wiki/Cynefin_framework
 
 # The Comfort Zone
 
-<img src="https://miro.medium.com/max/1400/1*ZkokDpV1svbBIHOmTPDFoA.jpeg" width="400">
+<img src="pics/the-comfort-zone.jpg" width="400">
 
 # Kanban
 
@@ -53,7 +53,7 @@ Reference: https://en.wikipedia.org/wiki/Cynefin_framework
 
 # Four Stages of Competence
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg/2560px-Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg.png" width="400">
+<img src="pics/four-stages-of-competence.png" width="400">
 
 |Stages|Description|
 |-|-|
@@ -82,17 +82,17 @@ Source: https://en.wikipedia.org/wiki/Four_stages_of_competence
 
 Ikigai is a Japanese concept that means "a reason for being." The word "ikigai" is usually used to indicate the source of value in one's life or the things that make one's life worthwhile. The word translated to English roughly means "thing that you live for" or "the reason for which you wake up in the morning." Each individual's ikigai is personal to them and specific to their lives, values and beliefs. It reflects the inner self of an individual and expresses that faithfully, while simultaneously creating a mental state in which the individual feels at ease. Activities that allow one to feel ikigai are never forced on an individual; they are often spontaneous, and always undertaken willingly, giving the individual satisfaction and a sense of meaning to life. (Reference: https://en.wikipedia.org/wiki/Ikigai)
 
-<img src="https://miro.medium.com/max/1838/1*cJk9deGJ2aizplaTslEXLA.jpeg" width="400">
+<img src="pics/ikigai.jpeg" width="400">
 
 # Kaizen, Kaikaku and Kakushin
 
-<img src="https://www.benchmarksixsigma.com/forum/uploads/monthly_2017_09/image.png.ce2645f8152fc18e8535fe3ba8e77dba.png" width="400">
+<img src="pics/Kaizen-Kaikaku-Kakushin.png" width="400">
 
 Source: https://www.benchmarksixsigma.com/forum/topic/34872-kaizen-kaikaku-kakushin/
 
 ## Kaizen
 
-<img src="http://leanmagazine.net/wordpress/wp-content/uploads/2017-11-30_15-23-14.png" width="400">
+<img src="pics/kaizen.png" width="400">
 
 Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change/
 
@@ -136,9 +136,9 @@ Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change
 
 Reference: https://en.wikipedia.org/wiki/Vitality_curve
 
-<img src="https://rightcandidate.files.wordpress.com/2013/11/the_right_candidate_stack_rank_curve.png" width="450">
+<img src="pics/stack-ranking.png" width="450">
 
-<img src="https://i.pinimg.com/originals/3c/87/92/3c87923ebd09b4156e13fd1ae7e8c4d9.gif" width="450">
+<img src="pics/dilbert-bell-curve.gif" width="450">
 
 # Ceremonies
 
@@ -190,4 +190,4 @@ Source: https://dzone.com/articles/minimum-viable-product-and
 
 #### Prioritizing Customer Satisfaction and Delight: Kano Model
 
-<img src="http://worksmartertogether.ucd.ie/wp-content/uploads/2017/11/kano2-1.png" width="600">
+<img src="pics/kano-model.png" width="600">
