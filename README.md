@@ -2,7 +2,7 @@
 
 The Network helps organizations to transform their management models from command & control (Alpha) to Beta, in order for them to sustain superior competitive success. The BetaCodex Network is the most important platform for achieving transformation and for improving the model.
 
-<img src="https://pbs.twimg.com/media/ENR6gfBWwAAQF3u?format=jpg&name=4096x4096" width="1024">
+<img src="pics/beta-codex-principles.jpeg" width="1024">
 
 # Douglas McGregor on Theory X and Theory Y
 
