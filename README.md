@@ -6,7 +6,7 @@ The Network helps organizations to transform their management models from comman
 
 # Douglas McGregor on Theory X and Theory Y
 
-<img width="256" src="pics/mcgregor-xy.png"></a>
+<a title="User:ZellmerLP SVG [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:McgregorXY-languages_(cropped).svg"><img width="256" alt="McgregorXY-languages (cropped)" src="pics/mcgregor-xy.png"></a>
 
 | Theory X | sphere | Theory Y |
 | :- | :-: |  :- |
