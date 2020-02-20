@@ -24,7 +24,7 @@ Cynefin offers five decision-making contexts or "domains"—obvious (known until
 
 Reference: https://en.wikipedia.org/wiki/Cynefin_framework
 
-<a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="512" alt="Cynefin framework by Edwin Stoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/512px-Cynefin_framework_by_Edwin_Stoop.jpg"></a>
+<a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="512" alt="Cynefin framework by Edwin Stoop" src="pics/cynefin.jpg"></a>
 
 # The Comfort Zone
 
