@@ -24,7 +24,7 @@ Cynefin offers five decision-making contexts or "domains"—obvious (known until
 
 Reference: https://en.wikipedia.org/wiki/Cynefin_framework
 
-<a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="512" alt="Cynefin framework by Edwin Stoop" src="pics/cynefin.jpg"></a>
+<a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="900" alt="Cynefin framework by Edwin Stoop" src="pics/cynefin.jpg"></a>
 
 # The Comfort Zone
 
@@ -82,17 +82,17 @@ Source: https://en.wikipedia.org/wiki/Four_stages_of_competence
 
 Ikigai is a Japanese concept that means "a reason for being." The word "ikigai" is usually used to indicate the source of value in one's life or the things that make one's life worthwhile. The word translated to English roughly means "thing that you live for" or "the reason for which you wake up in the morning." Each individual's ikigai is personal to them and specific to their lives, values and beliefs. It reflects the inner self of an individual and expresses that faithfully, while simultaneously creating a mental state in which the individual feels at ease. Activities that allow one to feel ikigai are never forced on an individual; they are often spontaneous, and always undertaken willingly, giving the individual satisfaction and a sense of meaning to life. (Reference: https://en.wikipedia.org/wiki/Ikigai)
 
-<img src="pics/ikigai.jpeg" width="400">
+<img src="pics/ikigai.jpeg" width="500">
 
 # Kaizen, Kaikaku and Kakushin
 
-<img src="pics/Kaizen-Kaikaku-Kakushin.png" width="400">
+<img src="pics/Kaizen-Kaikaku-Kakushin.png" width="600">
 
 Source: https://www.benchmarksixsigma.com/forum/topic/34872-kaizen-kaikaku-kakushin/
 
 ## Kaizen
 
-<img src="pics/kaizen.png" width="400">
+<img src="pics/kaizen.png" width="600">
 
 Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change/
 
@@ -136,9 +136,9 @@ Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change
 
 Reference: https://en.wikipedia.org/wiki/Vitality_curve
 
-<img src="pics/stack-ranking.png" width="450">
+<img src="pics/stack-ranking.png" width="500">
 
-<img src="pics/dilbert-bell-curve.gif" width="450">
+<img src="pics/dilbert-bell-curve.gif" width="500">
 
 # Ceremonies
 
