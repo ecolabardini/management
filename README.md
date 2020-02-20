@@ -114,6 +114,18 @@ Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change
 
 [Creditas](https://www.lovemondays.com.br/blog-canal-do-rh/creditas-processo-seletivo-sem-vies/)
 
+# Performance Management
+
+[Performance Management Revolution (HBR)](https://hbr.org/2016/10/the-performance-management-revolution)
+
+#### Performance Reviews
+
+>TODO
+
+#### Vitality curve / Stack ranking / Forced ranking / Rank and yank
+
+<img src="https://i.pinimg.com/originals/3c/87/92/3c87923ebd09b4156e13fd1ae7e8c4d9.gif" width="400">
+
 # Ceremonies
 
 ## Company
@@ -128,7 +140,6 @@ Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change
 ## Invidual
 
 - One on One
-- Performance Review
 
 ## Teams
 
