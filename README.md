@@ -20,7 +20,9 @@ Reference: https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y
 
 # Cynefin
 
-Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories. (Reference: https://en.wikipedia.org/wiki/Cynefin_framework)
+Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories.
+
+Reference: https://en.wikipedia.org/wiki/Cynefin_framework
 
 <a title="Edwin Stoop (User:Marillion!!62) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cynefin_framework_by_Edwin_Stoop.jpg"><img width="512" alt="Cynefin framework by Edwin Stoop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg/512px-Cynefin_framework_by_Edwin_Stoop.jpg"></a>
 
@@ -124,7 +126,19 @@ Source: http://leanmagazine.net/agile/kaikaku-mind-the-concept-of-radical-change
 
 #### Vitality curve / Stack ranking / Forced ranking / Rank and yank
 
-<img src="https://i.pinimg.com/originals/3c/87/92/3c87923ebd09b4156e13fd1ae7e8c4d9.gif" width="400">
+- Turning promotions into pay cuts
+- Encouraging sabotage
+- Reduction in productivity (if applied)
+- Create insecurity and dissatisfaction when performing employees fear that they’ll be fired
+- Unnecessary internal competition that can be destructive to synergy, creativity and innovation
+- May lead to biased decision-making and discrimination
+- Lazy policy that avoids the hard and necessary work of evaluating each individual objectively, based on his or her merits
+
+Reference: https://en.wikipedia.org/wiki/Vitality_curve
+
+<img src="https://rightcandidate.files.wordpress.com/2013/11/the_right_candidate_stack_rank_curve.png" width="450">
+
+<img src="https://i.pinimg.com/originals/3c/87/92/3c87923ebd09b4156e13fd1ae7e8c4d9.gif" width="450">
 
 # Ceremonies
 
