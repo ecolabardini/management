@@ -20,7 +20,7 @@ Reference: https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y
 
 # Expanded Maslow's Hierarchy of Needs
 
-<img src="pics/maslow.webp" width="1024">
+<img src="pics/maslow.png" width="1024">
 
 |Order | Need | Description |
 | :- | :- | :- | 
