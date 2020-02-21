@@ -18,6 +18,23 @@ The Network helps organizations to transform their management models from comman
 
 Reference: https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y
 
+# Expanded Maslow's Hierarchy of Needs
+
+<img src="pics/maslow.webp" width="1024">
+
+|Order | Need | Description |
+| :- | :- | :- | 
+| 1 | Physiological Needs | Biological and physiological needs - air, food, drink, shelter, warmth, sex, sleep, etc.|
+| 2 | Safety needs | Protection from elements, security, order, law, stability, etc. |
+| 3 | Love and belongingness needs | Friendship, intimacy, trust, and acceptance, receiving and giving affection and love. Affiliating, being part of a group (family, friends, work). |
+| 4 | Esteem needs | Which Maslow classified into two categories: (i) esteem for oneself (dignity, achievement, mastery, independence) and (ii) the desire for reputation or respect from others (e.g., status, prestige). |
+| 5 | Cognitive needs | knowledge and understanding, curiosity, exploration, need for meaning and predictability. |
+| 6 | Aesthetic needs | Appreciation and search for beauty, balance, form, etc. |
+| 7 | Self-actualization needs | Realizing personal potential, self-fulfillment, seeking personal growth and peak experiences. |
+| 8 | Transcendence needs | A person is motivated by values which transcend beyond the personal self (e.g., mystical experiences and certain experiences with nature, aesthetic experiences, sexual experiences, service to others, the pursuit of science, religious faith, etc.). |
+
+Source: https://www.simplypsychology.org/maslow.html
+
 # Cynefin
 
 Cynefin offers five decision-making contexts or "domains"—obvious (known until 2014 as simple), complicated, complex, chaotic, and disorder—that help managers to identify how they perceive situations and make sense of their own and other people's behaviour.The framework draws on research into systems theory, complexity theory, network theory and learning theories.
