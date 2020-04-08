@@ -1,3 +1,9 @@
+# The Five Dysfunctions of a Team
+
+<img src="pics/five-dysfunctions-of-a-team.jpeg" width="1024">
+
+> (...) It is more likely that leaders of low-trust teams will invite the members to a paint ball outing but be the only persons with guns. According to Katzenbach and Smith, the only effective method for teams to build trust and cohesion is to do real work,[6] and using the Myers-Briggs Type Indicator, the results do not constitute real work. Similar problems afflict the four other dysfunctions. Source: https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Criticism
+
 # The BetaCodex Network
 
 The Network helps organizations to transform their management models from command & control (Alpha) to Beta, in order for them to sustain superior competitive success. The BetaCodex Network is the most important platform for achieving transformation and for improving the model.
